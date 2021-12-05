@@ -22,9 +22,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <receiver android:name=".MuteReceiver" />
-        <receiver android:name=".UnmuteReceiver" />
-
+        <receiver android:name=".receivers.MuteReceiver" />
+        <receiver android:name=".receivers.UnmuteReceiver" />
     </application>
-
 </manifest>

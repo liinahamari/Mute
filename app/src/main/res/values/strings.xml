@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mute</string>
+    <string name="battery_optimizations_disabled">Battery optimizations disabled</string>
+</resources>
